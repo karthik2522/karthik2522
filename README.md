@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with  
 - 💬 Ask me about regarding new technologies in Programming World
 - 📫 How to reach me: Gmail:karthikkarthik2522@gmail.com 
-- 💌 How to reach me on Insta:karthik22522
+- 💌 How to reach me on Insta :https://www.instagram.com/karthik22522/
 
 
