@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently Learning Laravel,ReactJs,Nodejs,VanillaJs 
@@ -9,4 +8,7 @@
 - 📫 How to reach me: Gmail:karthikkarthik2522@gmail.com 
 - 💌 How to reach me on Insta :https://www.instagram.com/karthik22522/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2522&layout=compact)](https://github.com/karthik2522/github-readme-stats)
+
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik2522&show_icons=true&theme=radical)
 
