@@ -1,6 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🏫 Completed Diploma in CSE @ GPTI WhiteField
 - 👜 currently Working in eClinicalworks
 - 🔭 Curious about getting updated to new technologies
 - 🌱 Have handson knowledge of Frontend design and DevOps Tools
